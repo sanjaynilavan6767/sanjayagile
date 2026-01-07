@@ -7,3 +7,4 @@ def loginuser():
     print("user has logged in successfully")    
     print("user logged in")
 >>>>>> LOGIN-FEATURE (INCOMING CHANGE)
+print("new updates")
