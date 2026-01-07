@@ -1,3 +1,3 @@
 print("library management systems")
 def addbook():
-    print("book added")
+    print("book")
